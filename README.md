@@ -77,6 +77,10 @@ Para utilizarla deben indicar:
 ##  <h2 align="center"> **Deployment**
 
 Para realizar el deploy de esta aplicación se utilizó Deta Space.
+ 
+ Nombre de la aplicación: PI_TN
+ 
+ Nombre de usuario:nataliatr1250
 
 ### *Requisitos previos:*
 
